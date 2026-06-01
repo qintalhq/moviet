@@ -124,24 +124,25 @@ What's New In V7.0?
 
 ---
 
-Screenshots
+<h2 align="center">Screenshots</h2>
 
-<p align="center">
-  ## Screenshots
+<table align="center">
+<tr>
+<td align="center"><img src="./Screenshots/Home_Moviet.jpg" width="170"><br>Home</td>
+<td align="center"><img src="./Screenshots/Movie_Moviet.jpg" width="170"><br>Movie Details</td>
+<td align="center"><img src="./Screenshots/ExoPlayer_Moviet.jpg" width="170"><br>Exo Player</td>
+<td align="center"><img src="./Screenshots/MovietPlayer_Moviet.jpg" width="170"><br>Moviet Player</td>
+<td align="center"><img src="./Screenshots/Search_Moviet.jpg" width="170"><br>Search</td>
+</tr>
 
-<p align="center">
-  <img src="./Screenshots/Home_Moviet.jpg" width="250"/>
-  <img src="./Screenshots/ExoPlayer_Moviet.jpg" width="250"/>
-  <img src="./Screenshots/Search_Moviet.jpg" width="250"/>
-  <img src="./Screenshots/Favourites_Moviet.jpg" width="250"/>
-  <img src="./Screenshots/MovietPlayer_Moviet.jpg" width="250"/>
-  <img src="./Screenshots/Movie_Moviet.jpg" width="250"/>
-  <img src="./Screenshots/Seasons_Moviet.jpg" width="250"/>
-  <img src="./Screenshots/Episodes_Moviet.jpg" width="250"/>
-    <img src="./Screenshots/Settings_Moviet.jpg" width="250"/>
-    <img src="./Screenshots/Select_Player_Moviet.jpg" width="250"/>
-</p>
-</p>
+<tr>
+<td align="center"><img src="./Screenshots/Favourites_Moviet.jpg" width="170"><br>Favorites</td>
+<td align="center"><img src="./Screenshots/Seasons_Moviet.jpg" width="170"><br>Seasons</td>
+<td align="center"><img src="./Screenshots/Episodes_Moviet.jpg" width="170"><br>Episodes</td>
+<td align="center"><img src="./Screenshots/Settings_Moviet.jpg" width="170"><br>Settings</td>
+<td align="center"><img src="./Screenshots/Select_Player_Moviet.jpg" width="170"><br>Select Player</td>
+</tr>
+</table>
 
 Download
 
