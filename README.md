@@ -4,10 +4,15 @@ Premium Entertainment Experience
 
 Modern • Fast • Ad-Free • Multi-Language
 
-"Version" (https://img.shields.io/badge/Version-V7.0-red?style=for-the-badge)
-"Platform" (https://img.shields.io/badge/Platform-Android-black?style=for-the-badge)
-"Status" (https://img.shields.io/badge/Status-Active-red?style=for-the-badge)
-"Experience" (https://img.shields.io/badge/Experience-Ad--Free-black?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-V7.0-DC143C?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android)
+![Movies](https://img.shields.io/badge/Movies-DC143C?style=for-the-badge&logo=tmdb)
+![TV Shows](https://img.shields.io/badge/TV_Shows-000000?style=for-the-badge)
+![Live Sports](https://img.shields.io/badge/Live_Sports-DC143C?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/Downloads-000000?style=for-the-badge)
+![Subtitles](https://img.shields.io/badge/Subtitles-DC143C?style=for-the-badge)
+![Multi Audio](https://img.shields.io/badge/Multi_Audio-000000?style=for-the-badge)
+![Ad Free](https://img.shields.io/badge/Ad_Free-DC143C?style=for-the-badge)
 
 </div>---
 
