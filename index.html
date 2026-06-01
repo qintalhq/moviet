@@ -28,6 +28,22 @@ header{position:sticky;top:0;background:#111;padding:15px 20px;border-bottom:1px
 .gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:15px}
 .gallery img{width:100%;border-radius:12px;border:2px solid #222}
 footer{text-align:center;padding:30px;background:#080808;color:#999}
+  .social-links {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.social-links a {
+    color: white;
+    font-size: 28px;
+    margin: 0 12px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.social-links a:hover {
+    transform: scale(1.2);
+  }
 </style>
 </head>
 <body>
@@ -86,6 +102,16 @@ footer{text-align:center;padding:30px;background:#080808;color:#999}
 
 <footer>
 <p>© 2026 Moviet V7.0 • All Rights Reserved</p>
+  <!-- Social Links Below Footer -->
+<div class="social-links">
+    <a href="https://instagram.com/movietapp" target="_blank">
+        <i class="fab fa-instagram"></i>
+    </a>
+
+    <a href="https://t.me/moviethq" target="_blank">
+        <i class="fab fa-telegram"></i>
+    </a>
+</div>
 </footer>
 
 </body>
