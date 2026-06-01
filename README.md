@@ -127,8 +127,21 @@ What's New In V7.0?
 Screenshots
 
 <p align="center">
-Add screenshots here
-</p>---
+  ## Screenshots
+
+<p align="center">
+  <img src="./Screenshots/Home_Moviet.jpg" width="250"/>
+  <img src="./Screenshots/ExoPlayer_Moviet.jpg" width="250"/>
+  <img src="./Screenshots/Search_Moviet.jpg" width="250"/>
+  <img src="./Screenshots/Favourites_Moviet.jpg" width="250"/>
+  <img src="./Screenshots/MovietPlayer_Moviet.jpg" width="250"/>
+  <img src="./Screenshots/Movie_Moviet.jpg" width="250"/>
+  <img src="./Screenshots/Seasons_Moviet.jpg" width="250"/>
+  <img src="./Screenshots/Episodes_Moviet.jpg" width="250"/>
+    <img src="./Screenshots/Settings_Moviet.jpg" width="250"/>
+    <img src="./Screenshots/Select_Player_Moviet.jpg" width="250"/>
+</p>
+</p>
 
 Download
 
