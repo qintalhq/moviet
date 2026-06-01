@@ -144,11 +144,11 @@ What's New In V7.0?
 </tr>
 </table>
 
-Download
-
-<p align="center">Get the latest version of Moviet V7.0
-
-"Download Moviet" (#)
+<p align="center">
+  <a href="https://github.com/qintalhq/moviet/releases/download/Moviet-V7.0/Moviet.V7.0.apk">
+    <img src="https://img.shields.io/badge/⬇_DOWNLOAD_APK-MOVIET_V7.0-black?style=for-the-badge&labelColor=DC143C" />
+  </a>
+</p>
 
 </p>---
 
